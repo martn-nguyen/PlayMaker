@@ -1,0 +1,35 @@
+.Login {
+  text-align: center;
+}
+
+.container {
+  /* margin: 10vw; */
+  margin-left: 10vw;
+  margin-right: 10vw;
+  display: grid;
+  gap: 10px;
+}
+.TealButton {
+  background-color: #08C6AC;
+  border-color: #08C6AC;
+  border-radius: 20px;
+  font-size: large;
+  font-weight: bold;
+}
+.FormStyle {
+  margin: 30px;
+  font-size: x-large;
+  background-color: #38455D;
+}
+.GridStyle {
+  padding: 30px;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: #38455D;
+}
+
+.GridStyle2 {
+  padding: 30px;
+  color: #212B37;
+
+}
